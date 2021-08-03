@@ -1,0 +1,1 @@
+<h2>I m sidebar {{$name}}{{$age}}</h2>
